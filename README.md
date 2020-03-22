@@ -2,13 +2,13 @@
 
 Testing FeathersJS code for the benchmark https://github.com/the-benchmarker/web-frameworks
 
-And the issue https://github.com/the-benchmarker/web-frameworks/issues/1764
+And the issue https://github.com/the-benchmarker/web-frameworks/issues/1939
 
 ## How to run it
 
 ```
 npm install
-node app.js
+npm start
 ```
 
 ## How to test it
